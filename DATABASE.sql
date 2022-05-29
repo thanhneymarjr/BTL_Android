@@ -246,10 +246,10 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`iduser`, `nameuser`, `birthday`, `phone`, `email`, `gender`, `password`, `typeuser`) VALUES
-(1, 'nam', '3', '12', 'thanh@gmail.com', 'Nam', 'e10adc3949ba59abbe56e057f20f883e', 0),
+(1, 'thanh', '3', '12', 'thanh@gmail.com', 'Nam', 'e10adc3949ba59abbe56e057f20f883e', 0),
 (2, 'Admin', '30/10/2012', '123', 'admin', 'nu', 'c3284d0f94606de1fd2af172aba15bf3', 1),
-(3, 'Thanh', '25/06/2000', '0376701749', 'a@gmail.com', 'Nam', '202cb962ac59075b964b07152d234b70', 1),
-(4, '7', '', '', 'ngu@gmail.com', '', '202cb962ac59075b964b07152d234b70', 0),
+(3, 'a', '25/06/2000', '0376701749', 'a@gmail.com', 'Nam', '202cb962ac59075b964b07152d234b70', 1),
+(4, 'b', '', '', 'ngu@gmail.com', '', '202cb962ac59075b964b07152d234b70', 0),
 (5, 'nam', '', '', 'namdau@gmail.com', '', '202cb962ac59075b964b07152d234b70', 0),
 (6, 'thanhjr', '', '', 'thanhjr@gmail.com', '', 'e10adc3949ba59abbe56e057f20f883e', 0),
 (7, 'thanhn', '', '', 'thanhn@gmail.com', '', '202cb962ac59075b964b07152d234b70', 0);
