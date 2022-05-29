@@ -1,0 +1,18 @@
+﻿Đỗ Minh Thành
+B18DCCN612
+Nhóm 02
+
+Tền đề tài:App đặt hàng điện thoại
+
+Những phần tự làm
+Chức năng hiện thị thông tin chi tiết về điện thoại
+Chức năng đăng ký tài khoản
+Chức năng đăng nhập tài khoản
+Chức năng hiện thị danh sách điện thoại
+Chức năng đặt hàng
+Chức năng trong giỏ hàng
+Chức năng thêm loại sản phẩm
+Chức năng thêm sản phẩm
+Chức năng sửa thông tin cá nhân
+Chức năng tìm kiếm sản phẩm
+
